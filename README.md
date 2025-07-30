@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Proyecto introductorio para aprender a crear una imagen básica con Docker. Esta imagen imprime un mensaje en consola al ser ejecutada.
+Proyecto introductorio para aprender a crear una imagen básica con Docker. Esta imagen imprime un mensaje en consola al ser ejecutada. https://roadmap.sh/projects/basic-dockerfile
 
 ## Objetivos
 
